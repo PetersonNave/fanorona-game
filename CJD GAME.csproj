@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{343BB05A-F5C5-446D-B461-AD4A3617EC54}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CJD_GAME</RootNamespace>
+    <AssemblyName>CJD GAME</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AproxOrAfast.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AproxOrAfast.Designer.cs">
+      <DependentUpon>AproxOrAfast.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Creditos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Creditos.Designer.cs">
+      <DependentUpon>Creditos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PretoGanhou.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PretoGanhou.Designer.cs">
+      <DependentUpon>PretoGanhou.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TelaJogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelaJogo.Designer.cs">
+      <DependentUpon>TelaJogo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AproxOrAfast.resx">
+      <DependentUpon>AproxOrAfast.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Creditos.resx">
+      <DependentUpon>Creditos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PretoGanhou.resx">
+      <DependentUpon>PretoGanhou.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TelaJogo.resx">
+      <DependentUpon>TelaJogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\teset.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\olho_img.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Botao-Jogar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Botao-Creditos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-fanorona-color-war-final.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\color.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tabuleiro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\peça- colorida.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo tabuleiro %28colorido%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo tabuleiro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\peça colorida.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\peça preta e branca 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\controleIco.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\controlinho.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\peça-preto e branco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botão trocar png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brotaPretoPng.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cópia de botão sair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\animação menu.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\creditos multimidia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\creditos programacao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\60Collor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\50and50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\60Black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\80Black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\80Collor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\100Black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\100Collor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desmutado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mutado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\44516.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aceitarPNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\derrotaColorido.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\derrotaPreto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\negarPNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\445161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo tabuleiro %28colorido%291.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,82 @@
+C:\Users\Pc\source\repos\CJD GAME\CJD GAME\bin\Debug\CJD GAME.exe.config
+C:\Users\Pc\source\repos\CJD GAME\CJD GAME\bin\Debug\CJD GAME.exe
+C:\Users\Pc\source\repos\CJD GAME\CJD GAME\bin\Debug\CJD GAME.pdb
+C:\Users\Pc\source\repos\CJD GAME\CJD GAME\obj\Debug\CJD GAME.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.Form1.resources
+C:\Users\Pc\source\repos\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.Properties.Resources.resources
+C:\Users\Pc\source\repos\CJD GAME\CJD GAME\obj\Debug\CJD GAME.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\CJD GAME\CJD GAME\obj\Debug\CJD GAME.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\CJD GAME\CJD GAME\obj\Debug\CJD GAME.exe
+C:\Users\Pc\source\repos\CJD GAME\CJD GAME\obj\Debug\CJD GAME.pdb
+C:\Users\Pc\source\repos\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.TelaJogo.resources
+C:\Users\Pc\Downloads\CJD GAME\CJD GAME\bin\Debug\CJD GAME.exe.config
+C:\Users\Pc\Downloads\CJD GAME\CJD GAME\bin\Debug\CJD GAME.exe
+C:\Users\Pc\Downloads\CJD GAME\CJD GAME\bin\Debug\CJD GAME.pdb
+C:\Users\Pc\Downloads\CJD GAME\CJD GAME\obj\Debug\CJD GAME.csprojAssemblyReference.cache
+C:\Users\Pc\Downloads\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.Form1.resources
+C:\Users\Pc\Downloads\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.Properties.Resources.resources
+C:\Users\Pc\Downloads\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.TelaJogo.resources
+C:\Users\Pc\Downloads\CJD GAME\CJD GAME\obj\Debug\CJD GAME.csproj.GenerateResource.cache
+C:\Users\Pc\Downloads\CJD GAME\CJD GAME\obj\Debug\CJD GAME.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Downloads\CJD GAME\CJD GAME\obj\Debug\CJD GAME.exe
+C:\Users\Pc\Downloads\CJD GAME\CJD GAME\obj\Debug\CJD GAME.pdb
+C:\Users\Pc\Downloads\CJD GAME\CJD GAME\bin\Debug\Interop.WMPLib.dll
+C:\Users\Pc\Downloads\CJD GAME\CJD GAME\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Pc\Downloads\CJD GAME\CJD GAME\obj\Debug\Interop.WMPLib.dll
+C:\Users\Pc\Downloads\CJD GAME\CJD GAME\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Pc\Downloads\CJD GAME\CJD GAME\obj\Debug\CJD GAME.csproj.ResolveComReference.cache
+C:\Users\Pc\Downloads\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.Creditos.resources
+C:\Users\Pc\Documents\CJD GAME\CJD GAME\bin\Debug\CJD GAME.exe.config
+C:\Users\Pc\Documents\CJD GAME\CJD GAME\bin\Debug\CJD GAME.exe
+C:\Users\Pc\Documents\CJD GAME\CJD GAME\bin\Debug\CJD GAME.pdb
+C:\Users\Pc\Documents\CJD GAME\CJD GAME\bin\Debug\Interop.WMPLib.dll
+C:\Users\Pc\Documents\CJD GAME\CJD GAME\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Pc\Documents\CJD GAME\CJD GAME\obj\Debug\CJD GAME.csprojAssemblyReference.cache
+C:\Users\Pc\Documents\CJD GAME\CJD GAME\obj\Debug\Interop.WMPLib.dll
+C:\Users\Pc\Documents\CJD GAME\CJD GAME\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Pc\Documents\CJD GAME\CJD GAME\obj\Debug\CJD GAME.csproj.ResolveComReference.cache
+C:\Users\Pc\Documents\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.Creditos.resources
+C:\Users\Pc\Documents\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.Form1.resources
+C:\Users\Pc\Documents\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.Properties.Resources.resources
+C:\Users\Pc\Documents\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.TelaJogo.resources
+C:\Users\Pc\Documents\CJD GAME\CJD GAME\obj\Debug\CJD GAME.csproj.GenerateResource.cache
+C:\Users\Pc\Documents\CJD GAME\CJD GAME\obj\Debug\CJD GAME.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\CJD GAME\CJD GAME\obj\Debug\CJD GAME.exe
+C:\Users\Pc\Documents\CJD GAME\CJD GAME\obj\Debug\CJD GAME.pdb
+C:\Users\Pc\Documents\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.AproxOrAfast.resources
+C:\Users\aluno.NAVERECIFE\Downloads\111111Versão\CJD GAME\CJD GAME\bin\Debug\CJD GAME.exe.config
+C:\Users\aluno.NAVERECIFE\Downloads\111111Versão\CJD GAME\CJD GAME\obj\Debug\Interop.WMPLib.dll
+C:\Users\aluno.NAVERECIFE\Downloads\111111Versão\CJD GAME\CJD GAME\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\aluno.NAVERECIFE\Downloads\111111Versão\CJD GAME\CJD GAME\obj\Debug\CJD GAME.csproj.ResolveComReference.cache
+C:\Users\aluno.NAVERECIFE\Downloads\111111Versão\CJD GAME\CJD GAME\obj\Debug\CJD GAME.exe
+C:\Users\aluno.NAVERECIFE\Downloads\111111Versão\CJD GAME\CJD GAME\obj\Debug\CJD GAME.pdb
+C:\Users\aluno.NAVERECIFE\Downloads\111111Versão\CJD GAME\CJD GAME\bin\Debug\CJD GAME.exe
+C:\Users\aluno.NAVERECIFE\Downloads\111111Versão\CJD GAME\CJD GAME\bin\Debug\CJD GAME.pdb
+C:\Users\aluno.NAVERECIFE\Downloads\111111Versão\CJD GAME\CJD GAME\bin\Debug\Interop.WMPLib.dll
+C:\Users\aluno.NAVERECIFE\Downloads\111111Versão\CJD GAME\CJD GAME\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\aluno.NAVERECIFE\Downloads\111111Versão\CJD GAME\CJD GAME\obj\Debug\CJD GAME.csprojResolveAssemblyReference.cache
+C:\Users\aluno.NAVERECIFE\Downloads\111111Versão\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.AproxOrAfast.resources
+C:\Users\aluno.NAVERECIFE\Downloads\111111Versão\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.Creditos.resources
+C:\Users\aluno.NAVERECIFE\Downloads\111111Versão\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.Form1.resources
+C:\Users\aluno.NAVERECIFE\Downloads\111111Versão\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.Properties.Resources.resources
+C:\Users\aluno.NAVERECIFE\Downloads\111111Versão\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.TelaJogo.resources
+C:\Users\aluno.NAVERECIFE\Downloads\111111Versão\CJD GAME\CJD GAME\obj\Debug\CJD GAME.csproj.GenerateResource.Cache
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\bin\Debug\CJD GAME.exe.config
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\bin\Debug\CJD GAME.exe
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\bin\Debug\CJD GAME.pdb
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\bin\Debug\Interop.WMPLib.dll
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\obj\Debug\CJD GAME.csprojAssemblyReference.cache
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\obj\Debug\Interop.WMPLib.dll
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\obj\Debug\CJD GAME.csproj.ResolveComReference.cache
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.AproxOrAfast.resources
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.Creditos.resources
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.Form1.resources
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.PretoGanhou.resources
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.Properties.Resources.resources
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\obj\Debug\CJD_GAME.TelaJogo.resources
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\obj\Debug\CJD GAME.csproj.GenerateResource.cache
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\obj\Debug\CJD GAME.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\obj\Debug\CJD GAME.exe
+C:\Users\Pc\Documents\Versão Final\versão pra editar\CJD GAME\CJD GAME\obj\Debug\CJD GAME.pdb
