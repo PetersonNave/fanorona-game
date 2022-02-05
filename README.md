@@ -1,14 +1,14 @@
 ### COMO EXECUTAR O JOGO? ###
 
 - BASTA ABRIR A bin/Debug e executar o arquivo CJD GAME.exe
-- 
+
 ##############################################################
 
 - Projeto realizado no primeiro semestre do curso de "Técnico em Programação de Jogos Digitais" na matéria de L.P (Lógica de Programação)
 - A grande sacada desse projeto foi projetar um jogo 100% funcional no "Windows Formulários" (como a ferramenta não foi feita para isso, foi um desafio fazer toda a mecânica do jogo);
 - Utilizei a linguagem C#;
 - Foi preciso calcular todas as jogadas possíveis e ir estruturando o código através de inumeras condicionais;
-- Mais de mil linhas de códigos foram necessárias, porém é um dos projetos que mais me orgulho (dada as condições e conhecimentos que tinha na época)
+- Mais de mil linhas de códigos foram necessárias, porém é um dos projetos que mais me orgulho (dada as condições e conhecimentos que tinha na época).
 
 ################### MAIS SOBRE O JOGO ###################
 
